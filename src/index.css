@@ -10,6 +10,7 @@
 #root{
     background-color: theme('colors.dark');
     color: theme('colors.white');
+    height: 100vh;
 }
 
 .row-container:hover .opacity-0 {
